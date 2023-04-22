@@ -5,6 +5,9 @@ Our team's objective is to the use the price range of HDB flats offered by data.
 
 ### Data Processing
 
+#### Data Cleaning: 
+The first step in data preprocessing is data cleaning, which involves removing missing or inconsistent data, duplicate values, and irrelevant features. Data cleaning is crucial as it ensures that the data used in the analysis is accurate and complete, which in turn improves the quality of the results.
+
 
 ### Methodology
 
