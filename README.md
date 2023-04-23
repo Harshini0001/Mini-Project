@@ -36,6 +36,10 @@ By comparing the performance metrics of the Random Forest model to a baseline mo
 - Learned about the random forest model and its advantages
 - How to analyse a data and come up with a solution to solve the problem
 
+### What would be more interesting 
+
+If we could add second layer to the model output or may be second step where results from this model are fed into second model which would then forecast district house prices 6 months, 18 months and so on into the future. This would allow the opportunity not only to predict the house prices but also to see what the future holds for the house prices. And this is exactly the type of insights Real Estate Investment teams need to make right investments.
+
 
 
 
