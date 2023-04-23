@@ -27,6 +27,17 @@ By comparing the performance metrics of the Random Forest model to a baseline mo
 
 ### Conclusion
 
+- Coefficient of determination value of 0.986 is considered a very good fit
+- The predicted maximum selling price is around $168440
+
+### What we learn
+
+- Learned about the different data processing methods to further analyse the data
+- Learned about the random forest model and its advantages
+- How to analyse a data and come up with a solution to solve the problem
+
+
+
 
 
 
